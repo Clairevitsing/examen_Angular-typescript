@@ -1,0 +1,11 @@
+.active-link {
+    color: steelblue;
+}
+
+.navbar {
+    width: 45%;
+    display: flex;
+    justify-content: end;
+    gap: 2vh;
+    list-style-type: none;
+}
